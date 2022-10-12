@@ -1,6 +1,6 @@
 # insomnia-plugin-firebase
 
-Will return firebase user uid or token.
+Will return firebase user uid and token.
 
 ## Setup
 
